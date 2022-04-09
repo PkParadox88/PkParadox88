@@ -29,6 +29,9 @@
 <p align="left">
 <a href="https://fb.com/prahlad.kumar.79025648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prahladkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/prahlad_paradox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahlad_paradox" height="30" width="40" /></a>
+<a href="https://t.me/PK_Mystic" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="prahlad_paradox" height="35" width="35" /></a>
+
+
 </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkparadox88" alt="pkparadox88" /></a> </p>
